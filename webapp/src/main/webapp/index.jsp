@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1> New App register</h1>
-    <p> Please create a form an account.</p>
+    <p> Please create a form an account now</p>
     <hr>
     <br>
     <label for="email"><b>Email</b></label>
